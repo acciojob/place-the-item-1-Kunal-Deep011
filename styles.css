@@ -7,17 +7,17 @@
 	border: 2px solid black;
 	justify-content: space-between;
 }
-.container > .box1{
+.holder > .box1{
 	background-color: red;
 	padding: 20px;
 	order: 1;
 }
-.container > .box2{
+.holder > .box2{
 	background-color: blue;
 	padding: 20px;
 	order: 2;
 }
-.container > .box3{
+.holder > .box3{
 	background-color: green;
 	padding: 20px;
 }
